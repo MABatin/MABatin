@@ -1,4 +1,4 @@
-<h1 align="center">Hi , M. A. Batin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm M. A. Batin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Research+Assistant+@MAIMLab;Computer+Vision+Enthusiast;MLOps+Engineer;Finalist+@Robi+Datathon+2.0;Love+to+learn+new+technologies"></a>
 </p>
@@ -13,7 +13,7 @@
 - 🏢 I'm currently employed as a `Research Assistant` at [Mechatronics and Artificial Intelligence in Medicine Lab](https://maimlab.com/)
 - 🏫 I graduated in [Robotics & Mechatronics Engineering](https://www.du.ac.bd/body/RME) from [University of Dhaka](https://du.ac.bd/).
 - 🧑‍💻 I have extensive experience and an enthusiast in `Computer Vision` domain.
-- 🧑‍🎓 I'm currently learning **End-to-end MLOps pipeline** using `AWS Sagemaker` and `AWS CDK`.
+- 🧑‍🎓 I'm currently learning to implement **End-to-end MLOps pipeline** using `AWS Sagemaker` and `AWS CDK`.
 - 🎮 I **love** playing video games and recently picked up a fascination in `sim racing`.
 - 🤔 For any potential hirers, here is [my CV](https://github.com/MABatin/MABatin/blob/main/CV_MA-Batin.pdf).
 
