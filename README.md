@@ -24,7 +24,7 @@
 	<a href="https://github.com/MABatin"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/m-a-batin-b42910293/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_.unholytsar._/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
+	<a href="https://discordapp.com/users/1233164426794766346"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 
