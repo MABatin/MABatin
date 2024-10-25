@@ -15,7 +15,7 @@
 - 🧑‍💻 I have extensive experience and an enthusiast in `Computer Vision` domain.
 - 🧑‍🎓 I'm currently learning to implement **End-to-end MLOps pipeline** using `AWS Sagemaker` and `AWS CDK`.
 - 🎮 I **love** playing video games and recently picked up a fascination in `sim racing`.
-- 🤔 For any potential hirers, here is [my CV](https://github.com/MABatin/MABatin/blob/main/CV_MA-Batin.pdf).
+- 🤔 For any potential hirers, here is [my CV](https://shorturl.at/WcySq).
 
 
 ## <picture> <img src="https://github.com/MABatin/MABatin/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
