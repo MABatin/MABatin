@@ -11,6 +11,7 @@
 <br><br>
 
 - 🏢 I'm currently employed as a `Research Assistant` at [Mechatronics and Artificial Intelligence in Medicine Lab](https://maimlab.com/)
+- 🔭 I’m currently working on **Translation of a Wearable Fetal Movement Monitor towards Stillbirth Prevention**, funded by [Wellcome Leap In Utero Program](https://wellcomeleap.org/inutero/)
 - 🏫 I graduated in [Robotics & Mechatronics Engineering](https://www.du.ac.bd/body/RME) from [University of Dhaka](https://du.ac.bd/).
 - 🧑‍💻 I have extensive experience and an enthusiast in `Computer Vision` domain.
 - 🧑‍🎓 I'm currently learning to implement **End-to-end MLOps pipeline** using `AWS Sagemaker` and `AWS CDK`.
